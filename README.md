@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @sagarshingare16
+Hi Everyone 👋
+I am SAGAR. FullStack Developer.
 - 👀 I’m interested in Full Stack development,having knowladge of java spring boot microservice.
 - 🌱 I’m currently Microservices, System desgin and DSA
 - 💞️ I’m looking to collaborate on backend development
