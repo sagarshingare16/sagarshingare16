@@ -1,7 +1,8 @@
 Hi Everyone 👋
-I am SAGAR. FullStack Developer.
+I am Sagar.
+Banckend Developer.
 - 👀 I’m interested in Full Stack development,having knowladge of java spring boot microservice.
-- 🌱 I’m currently Microservices, System desgin and DSA
+- 🌱 I’m currently Working on Spring boot, Microservice, Backend development, databases, redis and kafka
 - 💞️ I’m looking to collaborate on backend development
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
